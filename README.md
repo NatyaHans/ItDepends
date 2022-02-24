@@ -32,4 +32,12 @@ Talk 3:
 # Speaker List
 Coming shortly
 
-# 
+# Please reach out to the symposium organizer:
+
+Dr. Alex Hernandez (Recent graduate, University of Florida) 
+[Twitter](https://twitter.com/xelamarie92)
+Natya Hans (Ph.D. Candidate, University of Florida)
+[Twitter](https://twitter.com/HansNatya)
+Chloe Nash (Ph.D. Candidate, University of Chicago)
+[Twitter](https://twitter.com/ChloeLikesFish)
+ 
