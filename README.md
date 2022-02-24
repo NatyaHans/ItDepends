@@ -1,7 +1,8 @@
 # ItDepends
 
 ## Date : June 24-28 2022
-For questions to the audience use the hashtag #ItDependsEvol2022
+For questions to the audience use the hashtag #ItDependsEvol2022 
+
 For more information please check the main conference [website](https://www.evolutionmeetings.org/)
 ## Location : Cleveland, Ohio
 
