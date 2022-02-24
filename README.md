@@ -13,19 +13,28 @@ When conceiving and developing evolutionary studies, scientists must confront a 
 
 # Schedule
 Session 1: 
+
 Talk 1: 
+
 Talk 2:
+
 Talk 3:
 
 Session 2:
+
 Talk 1: 
+
 Talk 2:
+
 Talk 3:
 
 
 Session 3: 
+
 Talk 1: 
+
 Talk 2:
+
 Talk 3:
 
 
