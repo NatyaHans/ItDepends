@@ -43,11 +43,6 @@ Talk 3:
 2. Dr. Jacob Steenwyck
 3. Dr. Samridhi Chaturvedi
 4. Dr. Janet Buckner
-5. 
-6. 
-7. 
-8. 
-9. 
 
 # Please reach out to the symposium organizer:
 
