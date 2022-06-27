@@ -26,7 +26,7 @@ Whitney Laboratory for Marine Bioscience, Whitney Laboratory for Marine Bioscien
 **Jennifer L. Spillane**, Rebecca Dikow
 Smithsonian Institution, Brunswick, NH, Smithsonian Institution, Washington, DC
 
-\
+&nbsp;
 
 **Talk 3: _Data types, taxon sampling, and other decisions in phylotranscriptomics and inferring whole genome duplications: a study in ferns_**
 
@@ -40,14 +40,14 @@ University of Florida, Gainesville, Department of Microbiology and Cell Sciences
 
 **Mariana P Braga**, SLU, Uppsala, Sweden
 
-\
+&nbsp;
 
 **Talk 2: _Testing the robustness of evidence for genomic parallelism associated with climatic adaptation_**
 
 **Samridhi Chaturvedi**, Zachariah Gompert, jeffrey L. feder, Owen Osborne, Moritz Muschick, Rudiger Riesch, Patrik Nosil
 University of California, Berkeley, Berkeley, CA, Utah State University, Logan, UT, University of Notre Dame, granger, Indiana, Bangor University, University of Bern, EAWAG Center for Ecology, Evolution & Biogeochemistry, Bern, BE, Switzerland, 6Department of Biological Sciences, Royal Holloway University of London, University Paul Valéry Montpellier
 
-\
+&nbsp;
 
 **Talk 3: _Evolution of substrate use across global assemblages of the goatfishes (Mullidae)_**
 
@@ -62,20 +62,20 @@ University of Chicago, Chicago, IL, University of Chicago
 **Chi Zhang**, Arthur Porto, Sara Rolfe, Altan Kocatulum,, A. Murat Maga
 Seattle Children's Research Institute, Seattle, 2Department of Biological Sciences, Louisiana State University, Seattle Children's Research Institute, Alfred University, University of Washington
 
-\
+&nbsp;
 
 **Talk 2: _Morphometrics as a tool for molluscan systematics: a paleobiological perspective_**
 
 **Shamindri Tennakoon**, University of Florida, Gainesville
 
-\
+&nbsp;
 
 **Talk 3: _Inferring diversification rates from fossil data: assumptions, choices, challenges_**
 
 **David Cerný**, Orlando Schwery
 1University of Chicago, Chicago, Illinois, Southeastern Louisiana University, Hammond, ID
 
-\
+&nbsp;
 
 **Talk 4: _Evaluating different approaches to handling taxonomic uncertainty using the fossilized birth-death process_** 
 
