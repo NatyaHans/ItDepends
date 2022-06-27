@@ -48,7 +48,7 @@ University of Chicago, Chicago, IL, University of Chicago
 
 ## Session 3: Macroevolution/Morphological Evolution/Paleobiology
 
-**Talk 1:_Automated landmarking via multiple templates_ **
+**Talk 1:__Automated landmarking via multiple templates__**
 
 **Chi Zhang**, Arthur Porto, Sara Rolfe, Altan Kocatulum,, A. Murat Maga
 Seattle Children's Research Institute, Seattle, 2Department of Biological Sciences, Louisiana State University, Seattle Children's Research Institute, Alfred University, University of Washington
