@@ -14,18 +14,17 @@ When conceiving and developing evolutionary studies, scientists must confront a 
 # Schedule
 ## Session 1: Genomics/Molecular Evolution
 
-**Talk 1:** 
+**Talk 1: _Genomic and transcriptomic dynamics within Ctenophora: Insights from the genome of a ctenophore-eating ctenophore_**
 
-**_Genomic and transcriptomic dynamics within Ctenophora: Insights from the genome of a ctenophore-eating ctenophore_**
 **Alexandra Hernandez**, Melissa DeBiasse, Lana Dykes, Allison Edgar, Mark Martindale, Joseph Ryan
 Whitney Laboratory for Marine Bioscience, Whitney Laboratory for Marine Bioscience, University of Florida, ST AUGUSTINE, FL
 
-**Talk 2:** _Decreasing bias against marine invertebrates in comparative genomics studies through machine learning._
+**Talk 2: _Decreasing bias against marine invertebrates in comparative genomics studies through machine learning._**
 
 **Jennifer L. Spillane**, Rebecca Dikow
 Smithsonian Institution, Brunswick, NH, Smithsonian Institution, Washington, DC
 
-**Talk 3:** _Data types, taxon sampling, and other decisions in phylotranscriptomics and inferring whole genome duplications: a study in ferns_
+**Talk 3: _Data types, taxon sampling, and other decisions in phylotranscriptomics and inferring whole genome duplications: a study in ferns_**
 
 **Jessie Pelosi**, Emily Kim, W. Brad Barbazuk, Emily Sessa
 University of Florida, Gainesville, Department of Microbiology and Cell Sciences, University of Florida, 3University of Florida, Biology, University of Florida, Gainesville, FL
