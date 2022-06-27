@@ -14,8 +14,9 @@ When conceiving and developing evolutionary studies, scientists must confront a 
 # Schedule
 ## Session 1: Genomics/Molecular Evolution
 
-**Talk 1:** _Genomic and transcriptomic dynamics within Ctenophora: Insights from the genome of a ctenophore-eating ctenophore_
+**Talk 1:** 
 
+**_Genomic and transcriptomic dynamics within Ctenophora: Insights from the genome of a ctenophore-eating ctenophore_**
 **Alexandra Hernandez**, Melissa DeBiasse, Lana Dykes, Allison Edgar, Mark Martindale, Joseph Ryan
 Whitney Laboratory for Marine Bioscience, Whitney Laboratory for Marine Bioscience, University of Florida, ST AUGUSTINE, FL
 
