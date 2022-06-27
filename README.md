@@ -17,14 +17,14 @@ When conceiving and developing evolutionary studies, scientists must confront a 
 **Talk 1: _Genomic and transcriptomic dynamics within Ctenophora: Insights from the genome of a ctenophore-eating ctenophore_**
 
 **Alexandra Hernandez**, Melissa DeBiasse, Lana Dykes, Allison Edgar, Mark Martindale, Joseph Ryan
-Whitney Laboratory for Marine Bioscience, Whitney Laboratory for Marine Bioscience, University of Florida, ST AUGUSTINE, FL
+Whitney Laboratory for Marine Bioscience, Whitney Laboratory for Marine Bioscience, University of Florida, ST AUGUSTINE, FL\
 
 
 
 **Talk 2: _Decreasing bias against marine invertebrates in comparative genomics studies through machine learning._**
 
 **Jennifer L. Spillane**, Rebecca Dikow
-Smithsonian Institution, Brunswick, NH, Smithsonian Institution, Washington, DC
+Smithsonian Institution, Brunswick, NH, Smithsonian Institution, Washington, DC\
 
 
 
