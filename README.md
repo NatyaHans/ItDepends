@@ -19,7 +19,7 @@ When conceiving and developing evolutionary studies, scientists must confront a 
 **Alexandra Hernandez**, Melissa DeBiasse, Lana Dykes, Allison Edgar, Mark Martindale, Joseph Ryan
 Whitney Laboratory for Marine Bioscience, Whitney Laboratory for Marine Bioscience, University of Florida, ST AUGUSTINE, FL
 
-&nbsp
+\
 
 **Talk 2: _Decreasing bias against marine invertebrates in comparative genomics studies through machine learning._**
 
